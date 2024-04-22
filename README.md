@@ -10,7 +10,11 @@ How can Jest's beforeEach() and afterEach() functions improve our tests?  -  bef
 
 
 Project Name: Pig Dice Game
+
 Description: Writing unit tests using Jest
+
 Author: Lagat Lucia
+
 The web application code can be clonned from: - https://github.com/ljlagat/PigDiceGame
+
 GitHub pages (Live Link) - https://ljlagat.github.io/PigDiceGame/
