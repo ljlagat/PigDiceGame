@@ -1,0 +1,26 @@
+{
+  "name": "pig-dice-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljlagat/PigDiceGame.git"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "Lucia Lagat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljlagat/PigDiceGame/issues"
+  },
+  "homepage": "https://github.com/ljlagat/PigDiceGame#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
